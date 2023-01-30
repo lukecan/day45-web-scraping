@@ -28,6 +28,3 @@ To run the script, simply execute the `main.py` file in your terminal or command
 - `requests` module
 - `bs4` (BeautifulSoup) module
 
-## Author
-
-Your name or the name of the author.
